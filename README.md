@@ -22,7 +22,7 @@
 
 * `-` `+` `0` `#` and (space)
 
-* `l` `ll` `h` `hh`
+* `h` `hh` `l` `ll` `L`
 
 * bonus flag: `*`
 
