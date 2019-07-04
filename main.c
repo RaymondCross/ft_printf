@@ -265,7 +265,7 @@ int main(int argc, char const *argv[])
 
 // // // plus tests
 
-	printf("\nPlus test ft_printf\n");
+	printf("\nplus test ft_printf\n");
 	ft_printf("%%+i 42 == %+i\n", 42);
 	ft_printf("%%+d 42 == %+d\n", INT_MAX);
 	ft_printf("%%+i -42 == %+i\n", -42);
@@ -332,13 +332,13 @@ int main(int argc, char const *argv[])
 // // // precision tests
 
 	ft_printf("\nprecision tests ft_printf\n");
-	ft_printf("ft%%04.5i 42 == |%04.5i|\n", 42);
-	ft_printf("ft%%04.3i 42 == |%04.3i|\n", 42);
-	ft_printf("ft%%04.2i 42 == |%04.2i|\n", 42);
+	ft_printf("%%04.5i 42 == |%04.5i|\n", 42);
+	ft_printf("%%04.3i 42 == |%04.3i|\n", 42);
+	ft_printf("%%04.2i 42 == |%04.2i|\n", 42);
 	printf("\nprecision tests printf\n");
-	printf("ft%%04.5i 42 == |%04.5i|\n", 42);
-	printf("ft%%04.3i 42 == |%04.3i|\n", 42);
-	printf("ft%%04.2i 42 == |%04.2i|\n", 42);
+	printf("%%04.5i 42 == |%04.5i|\n", 42);
+	printf("%%04.3i 42 == |%04.3i|\n", 42);
+	printf("%%04.2i 42 == |%04.2i|\n", 42);
 
 // // // double tests
 
