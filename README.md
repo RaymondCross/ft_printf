@@ -7,8 +7,8 @@
 
 To run type in command line:
 
-'make'
+`make`
 
-'gcc' 'libftprintf.a' 'main.c' (or) 'main2.c'
+`gcc` `libftprintf.a` `main.c` (or) `main2.c`
 
-'./a.out'
+`./a.out`
