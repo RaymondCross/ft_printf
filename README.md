@@ -25,11 +25,3 @@
 * `h` `hh` `l` `ll` `L`
 
 * bonus flag: `*`
-
-To run my printf type in command line:
-
-`make`
-
-`gcc` `libftprintf.a` `main.c` (or) `main2.c`
-
-`./a.out`
